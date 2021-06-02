@@ -2,7 +2,7 @@
 int main()
 {
   //hiweqqw2
-  printf("Hello change 1 rwqrq32r!!");
+  printf("Hello change 1 rwqrq!!");
   return 0;
   
 }
