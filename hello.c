@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-  //hiweqqw213sad
+  //hiweqqw2
   printf("Hello change 1 rwqrqr!!");
   return 0;
   
